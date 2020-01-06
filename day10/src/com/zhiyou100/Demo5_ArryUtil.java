@@ -19,7 +19,7 @@ public class Demo5_ArryUtil {
 		/*System.out.println("排序前  ：");
 		printArry(arr1);*/
 		// ----
-		
+		      
 		
 		//设计遍历方法
 		System.out.println("排序后  ：");
