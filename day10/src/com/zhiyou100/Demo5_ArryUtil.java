@@ -15,7 +15,7 @@ public class Demo5_ArryUtil {
 		//调用方法，求数组的和
 	
 		int[] arr2 = arryPaixu(arr1); 
-		
+		 
 		/*System.out.println("排序前  ：");
 		printArry(arr1);*/
 		// ----
